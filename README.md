@@ -11,63 +11,60 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 ![zuko](https://media.giphy.com/media/gq5MJactHfhFS/giphy.gif)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-140575%20linhas%20de%20c%C3%B3digo-blue)
 
-**🐱 My Github Data** 
+**🐱 Meus dados no Github** 
 
-> 🏆 6 Contributions in the Year 2021
+> 🏆 8 Contribuições no ano de 2021
  > 
-> 📦 76.3 kB Used in Github's Storage 
+> 📦 76.3 kB Usado no armazenamento do Github 
  > 
-> 💼 Opted to Hire
+> 💼 Aberto para contratação
  > 
-> 📜 55 Public Repositories 
+> 📜 55 Repositórios Públicos 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 2 Repositórios Privados  
  > 
-**I'm a Night 🦉** 
+**Eu sou noturno 🦉** 
 
 ```text
-🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-🌆 Daytime    4 commits      █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-🌃 Evening    11 commits     ██████████████░░░░░░░░░░░   57.89% 
-🌙 Night      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
+🌞 Manhã      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+🌆 Tarde      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+🌃 Noite      11 commits     █████████████░░░░░░░░░░░░   52.38% 
+🌙 Madrugada  2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **Sou mais produtivo em domingo** 
 
 ```text
-Monday       3 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    5 commits      ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     6 commits      ████████░░░░░░░░░░░░░░░░░   31.58% 
-Sunday       5 commits      ██████░░░░░░░░░░░░░░░░░░░   26.32%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+Segunda-Feira3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Terça-Feira  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Quarta-Feira 5 commits      ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+Quinta-Feira 0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sexta-Feira  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+sábado       6 commits      ███████░░░░░░░░░░░░░░░░░░   28.57% 
+domingo      7 commits      ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
-**I Mostly Code in JavaScript** 
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+⌚︎ Fuso horário: America/Sao_Paulo
+
+💬 Linguagens de programação: 
+Markdown                 8 mins              █████████████████████████   100.0%
+
+🔥 Editores: 
+VS Code                  8 mins              █████████████████████████   100.0%
+
+💻 Sistema operacional: 
+Windows                  8 mins              █████████████████████████   100.0%
+
+```
+
+**Eu geralmente programo em JavaScript** 
 
 ```text
 JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53% 
@@ -79,7 +76,7 @@ Ruby                     6 repos             ███░░░░░░░░�
 ```
 
 
-**Timeline**
+**Linha do tempo**
 
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
