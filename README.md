@@ -50,7 +50,7 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 > 🏆 11 Contribuições no ano de 2021
  > 
-> 📦 76.3 kB Usado no armazenamento do Github 
+> 📦 76.4 kB Usado no armazenamento do Github 
  > 
 > 💼 Aberto para contratação
  > 
@@ -87,13 +87,14 @@ domingo      10 commits     ██████████░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Markdown                 8 mins              █████████████████████████   100.0%
+Markdown                 2 hrs 15 mins       ████████████████████░░░░░   80.41% 
+YAML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59%
 
 🔥 Editores: 
-VS Code                  8 mins              █████████████████████████   100.0%
+VS Code                  2 hrs 48 mins       █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Windows                  8 mins              █████████████████████████   100.0%
+Windows                  2 hrs 48 mins       █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +111,7 @@ Ruby                     6 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 01/08/2021
+ Last Updated on 02/08/2021
 <!--END_SECTION:waka-->
 <hr />
 
