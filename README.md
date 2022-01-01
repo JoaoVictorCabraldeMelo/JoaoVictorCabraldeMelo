@@ -48,7 +48,7 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 507 Contribuições no ano de 2021
+> 🏆 0 Contribuições no ano de 2022
  > 
 > 📦 92.8 kB Usado no armazenamento do GitHub 
  > 
@@ -118,7 +118,7 @@ Ruby                     7 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 <hr />
 
