@@ -44,13 +44,13 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-211%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-202%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
 > 🏆 275 Contribuições no ano de 2022
  > 
-> 📦 92.1 kB Usado no armazenamento do GitHub 
+> 📦 92.2 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
@@ -87,18 +87,18 @@ domingo      46 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               12 hrs 57 mins      ███████████████████░░░░░░   78.07% 
-Prolog                   2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-Markdown                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3% 
-Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
-Perl                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
+TypeScript               12 hrs 27 mins      ████████████████████░░░░░   80.92% 
+Prolog                   1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39% 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.56% 
+Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
 
 🔥 Editores: 
-VS Code                  16 hrs 35 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 24 mins      █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Linux                    13 hrs 25 mins      ████████████████████░░░░░   80.94% 
-Windows                  3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.06%
+Linux                    12 hrs 56 mins      █████████████████████░░░░   84.01% 
+Windows                  2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99%
 
 ```
 
@@ -119,7 +119,7 @@ Ruby                     7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/04/2022 18:51:28 UTC
+ Last Updated on 03/04/2022 18:50:39 UTC
 <!--END_SECTION:waka-->
 <hr />
 
