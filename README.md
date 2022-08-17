@@ -44,7 +44,7 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-424%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -89,13 +89,14 @@ domingo      44 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+C++                      3 hrs 29 mins       █████████████████████████   100.0% 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+VS Code                  3 hrs 29 mins       █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Linux                    3 hrs 29 mins       █████████████████████████   100.0%
 
 ```
 
@@ -116,7 +117,7 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 18:53:34 UTC
+ Last Updated on 17/08/2022 18:53:11 UTC
 <!--END_SECTION:waka-->
 <hr />
 
