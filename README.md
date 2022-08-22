@@ -44,12 +44,14 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-952%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-424%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
+> 🏆 464 Contribuições no ano de 2022
+ > 
 > 📦 100.1 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
@@ -87,17 +89,17 @@ domingo      44 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-C++                      3 hrs 49 mins       ███████████████░░░░░░░░░░   60.19% 
-TeX                      1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   28.72% 
-BibTeX                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21% 
-Makefile                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
+C++                      3 hrs 49 mins       █████████████░░░░░░░░░░░░   53.45% 
+TeX                      2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   36.7% 
+BibTeX                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.27% 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
+Makefile                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28%
 
 🔥 Editores: 
-VS Code                  6 hrs 21 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Linux                    6 hrs 21 mins       █████████████████████████   100.0%
+Linux                    7 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -118,7 +120,7 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2022 18:50:57 UTC
+ Last Updated on 22/08/2022 18:57:15 UTC
 <!--END_SECTION:waka-->
 <hr />
 
