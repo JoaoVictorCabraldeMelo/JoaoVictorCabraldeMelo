@@ -44,7 +44,7 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-956%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-424%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -89,17 +89,17 @@ domingo      44 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TeX                      2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   34.32% 
-Other                    2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.4% 
-C++                      2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.1% 
-Makefile                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.31% 
-C                        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
+TeX                      2 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.26% 
+Other                    2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.77% 
+C                        40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
+Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🔥 Editores: 
-VS Code                  7 hrs 8 mins        █████████████████████████   100.0%
+VS Code                  5 hrs 39 mins       █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Linux                    7 hrs 8 mins        █████████████████████████   100.0%
+Linux                    5 hrs 39 mins       █████████████████████████   100.0%
 
 ```
 
@@ -120,7 +120,7 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2022 18:54:35 UTC
+ Last Updated on 27/08/2022 18:49:57 UTC
 <!--END_SECTION:waka-->
 <hr />
 
