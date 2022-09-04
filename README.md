@@ -44,66 +44,22 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-959%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-424%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 468 Contribuições no ano de 2022
+> 🏆 469 Contribuições no ano de 2022
  > 
 > 📦 100.2 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 68 Repositórios Públicos 
+> 📜 69 Repositórios Públicos 
  > 
 > 🔑 3 Repositórios Privados  
  > 
-**Eu sou diurno 🐤** 
-
-```text
-🌞 Manhã      166 commits    ███████░░░░░░░░░░░░░░░░░░   31.14% 
-🌆 Tarde      231 commits    ██████████░░░░░░░░░░░░░░░   43.34% 
-🌃 Noite      127 commits    ██████░░░░░░░░░░░░░░░░░░░   23.83% 
-🌙 Madrugada  9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
-
-```
-📅 **Sou mais produtivo em Terça-Feira** 
-
-```text
-Segunda-Feira92 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
-Terça-Feira  127 commits    ██████░░░░░░░░░░░░░░░░░░░   23.83% 
-Quarta-Feira 51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
-Quinta-Feira 77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
-Sexta-Feira  102 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.14% 
-sábado       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
-domingo      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.26%
-
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-⌚︎ Fuso horário: America/Sao_Paulo
-
-💬 Linguagens de programação: 
-TeX                      2 hrs 13 mins       ███████████████░░░░░░░░░░   61.88% 
-Other                    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
-C                        22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
-
-🔥 Editores: 
-VS Code                  3 hrs 35 mins       █████████████████████████   100.0%
-
-💻 Sistema operacional: 
-Linux                    3 hrs 20 mins       ███████████████████████░░   93.02% 
-Windows                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
-
-```
-
 **Eu geralmente programo em JavaScript** 
 
 ```text
@@ -121,7 +77,7 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:50:33 UTC
+ Last Updated on 04/09/2022 18:52:18 UTC
 <!--END_SECTION:waka-->
 <hr />
 
