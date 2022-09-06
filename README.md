@@ -44,7 +44,7 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-424%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -60,6 +60,50 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
  > 
 > 🔑 3 Repositórios Privados  
  > 
+**Eu sou diurno 🐤** 
+
+```text
+🌞 Manhã      166 commits    ███████░░░░░░░░░░░░░░░░░░   31.14% 
+🌆 Tarde      231 commits    ██████████░░░░░░░░░░░░░░░   43.34% 
+🌃 Noite      127 commits    ██████░░░░░░░░░░░░░░░░░░░   23.83% 
+🌙 Madrugada  9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
+
+```
+📅 **Sou mais produtivo em Terça-Feira** 
+
+```text
+Segunda-Feira92 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
+Terça-Feira  127 commits    ██████░░░░░░░░░░░░░░░░░░░   23.83% 
+Quarta-Feira 51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
+Quinta-Feira 77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
+Sexta-Feira  102 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.14% 
+sábado       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
+domingo      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.26%
+
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+⌚︎ Fuso horário: America/Sao_Paulo
+
+💬 Linguagens de programação: 
+Python                   1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   31.16% 
+Other                    1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   27.31% 
+TeX                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
+C                        35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
+Text                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.31%
+
+🔥 Editores: 
+VS Code                  5 hrs 30 mins       █████████████████████████   100.0%
+
+💻 Sistema operacional: 
+Linux                    5 hrs 15 mins       ███████████████████████░░   95.44% 
+Windows                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.56%
+
+```
+
 **Eu geralmente programo em JavaScript** 
 
 ```text
@@ -77,7 +121,7 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:52:18 UTC
+ Last Updated on 06/09/2022 19:00:26 UTC
 <!--END_SECTION:waka-->
 <hr />
 
