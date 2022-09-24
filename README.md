@@ -44,7 +44,7 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-971%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-972%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-424%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -52,7 +52,7 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 > 🏆 480 Contribuições no ano de 2022
  > 
-> 📦 100.7 kB Usado no armazenamento do GitHub 
+> 📦 100.8 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
@@ -89,18 +89,18 @@ domingo      44 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TeX                      2 hrs 2 mins        █████████████░░░░░░░░░░░░   51.51% 
-C++                      1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   36.18% 
-Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.68% 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+C++                      2 hrs 42 mins       ████████████████████░░░░░   81.88% 
+Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
+TeX                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 🔥 Editores: 
-VS Code                  3 hrs 57 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 18 mins       █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Linux                    3 hrs 31 mins       ██████████████████████░░░   89.05% 
-Windows                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.95%
+Linux                    2 hrs 52 mins       █████████████████████░░░░   86.91% 
+Windows                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09%
 
 ```
 
@@ -121,7 +121,7 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/09/2022 19:01:11 UTC
+ Last Updated on 24/09/2022 18:54:44 UTC
 <!--END_SECTION:waka-->
 <hr />
 
