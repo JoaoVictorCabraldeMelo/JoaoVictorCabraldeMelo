@@ -44,7 +44,7 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-424%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -89,15 +89,14 @@ domingo      44 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TeX                      4 hrs 19 mins       ██████████████████████░░░   88.87% 
-BibTeX                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.31% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
+TeX                      4 hrs 32 mins       ██████████████████████░░░   90.05% 
+BibTeX                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.95%
 
 🔥 Editores: 
-VS Code                  4 hrs 52 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Linux                    4 hrs 52 mins       █████████████████████████   100.0%
+Linux                    5 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -118,7 +117,7 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2022 19:08:33 UTC
+ Last Updated on 08/10/2022 18:57:44 UTC
 <!--END_SECTION:waka-->
 <hr />
 
