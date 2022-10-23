@@ -52,7 +52,7 @@ Sou um estudante de Ciência da Computação na Universidade de Brasília, tenho
 
 > 🏆 505 Contribuições no ano de 2022
  > 
-> 📦 100.9 kB Usado no armazenamento do GitHub 
+> 📦 101.0 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
@@ -89,13 +89,13 @@ domingo      47 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TeX                      7 hrs 13 mins       █████████████████████████   100.0%
+TeX                      6 hrs 15 mins       █████████████████████████   100.0%
 
 🔥 Editores: 
-VS Code                  7 hrs 13 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 15 mins       █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Linux                    7 hrs 13 mins       █████████████████████████   100.0%
+Linux                    6 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
@@ -116,7 +116,7 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/10/2022 18:59:58 UTC
+ Last Updated on 23/10/2022 19:00:49 UTC
 <!--END_SECTION:waka-->
 <hr />
 
