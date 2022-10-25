@@ -89,13 +89,13 @@ domingo      47 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TeX                      6 hrs 15 mins       █████████████████████████   100.0%
+TeX                      4 hrs 53 mins       █████████████████████████   100.0%
 
 🔥 Editores: 
-VS Code                  6 hrs 15 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 53 mins       █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Linux                    6 hrs 15 mins       █████████████████████████   100.0%
+Linux                    4 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
@@ -116,7 +116,7 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JoaoVictorCabraldeMelo/JoaoVictorCabraldeMelo/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2022 19:12:11 UTC
+ Last Updated on 25/10/2022 19:27:48 UTC
 <!--END_SECTION:waka-->
 <hr />
 
