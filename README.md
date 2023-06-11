@@ -44,7 +44,7 @@ I am a developer with a passion to functional programming, normally working full
 
 **🐱 My GitHub Data** 
 
-> 📦 192.4 kB Used in GitHub's Storage 
+> 📦 192.5 kB Used in GitHub's Storage 
  > 
 > 🏆 181 Contributions in the Year 2023
  > 
@@ -81,13 +81,13 @@ Sunday                   447 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,6 +103,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2023 18:40:33 UTC
+ Last Updated on 11/06/2023 18:40:26 UTC
 <!--END_SECTION:waka-->
 <hr />
