@@ -46,6 +46,8 @@ I am a developer with a passion to functional programming, normally working full
 
 > 📦 189.8 kB Used in GitHub's Storage 
  > 
+> 🏆 145 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 75 Public Repositories 
@@ -105,6 +107,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2023 18:39:15 UTC
+ Last Updated on 08/11/2023 18:38:22 UTC
 <!--END_SECTION:waka-->
 <hr />
