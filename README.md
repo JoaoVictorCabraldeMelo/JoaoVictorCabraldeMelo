@@ -38,7 +38,7 @@ I am a developer with a passion to functional programming, normally working full
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.1%20million%20lines%20of%20code-blue)
 
@@ -81,15 +81,15 @@ Sunday                   453 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     1 hr                ████████████████████████░   97.15 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+YAML                     1 hr 6 mins         ████████████████████████░   97.38 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,6 +105,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2024 18:39:57 UTC
+ Last Updated on 23/01/2024 18:38:54 UTC
 <!--END_SECTION:waka-->
 <hr />
