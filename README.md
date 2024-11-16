@@ -81,13 +81,13 @@ Sunday                   453 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,6 +103,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2024 18:43:46 UTC
+ Last Updated on 16/11/2024 18:42:04 UTC
 <!--END_SECTION:waka-->
 <hr />
