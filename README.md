@@ -38,8 +38,6 @@ I am a developer with a passion to functional programming, normally working full
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C397%20hrs%2052%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -101,6 +99,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 18:44:18 UTC
+ Last Updated on 01/12/2024 18:43:09 UTC
 <!--END_SECTION:waka-->
 <hr />
