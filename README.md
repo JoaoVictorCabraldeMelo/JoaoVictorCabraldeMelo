@@ -38,13 +38,15 @@ I am a developer with a passion to functional programming, normally working full
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C400%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 191.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 12 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -79,17 +81,14 @@ Sunday                   453 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         ███████████████░░░░░░░░░░   61.23 % 
-CSS                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TypeScript               1 hr 9 mins         ████████████████████░░░░░   80.28 % 
+CSS                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      1 hr 53 mins        █████████████████████████   100.00 % 
+WSL                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,6 +104,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2025 18:41:56 UTC
+ Last Updated on 05/01/2025 18:41:37 UTC
 <!--END_SECTION:waka-->
 <hr />
