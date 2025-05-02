@@ -38,8 +38,6 @@ I am a developer with a passion to functional programming, normally working full
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -79,13 +77,16 @@ Sunday                   455 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   18 mins             ████████████████░░░░░░░░░   64.82 % 
+CSV                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Text                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      22 mins             ███████████████████░░░░░░   76.95 % 
+Windows                  6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,6 +102,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2025 18:45:20 UTC
+ Last Updated on 02/05/2025 18:44:27 UTC
 <!--END_SECTION:waka-->
 <hr />
