@@ -38,15 +38,11 @@ I am a developer with a passion to functional programming, normally working full
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2025%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 187.4 kB Used in GitHub's Storage 
- > 
-> 🏆 1,330 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -54,42 +50,6 @@ I am a developer with a passion to functional programming, normally working full
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6751 commits        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-🌆 Daytime                15748 commits       ███████████████░░░░░░░░░░   58.60 % 
-🌃 Evening                4213 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-🌙 Night                  164 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   5089 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Tuesday                  4483 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Wednesday                5550 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Thursday                 5319 commits        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Friday                   5113 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Saturday                 625 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Sunday                   697 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,6 +63,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2025 18:49:17 UTC
+ Last Updated on 16/09/2025 18:47:21 UTC
 <!--END_SECTION:waka-->
 <hr />
