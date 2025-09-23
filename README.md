@@ -38,15 +38,13 @@ I am a developer with a passion to functional programming, normally working full
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2025%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 187.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,363 Contributions in the Year 2025
+> 🏆 1,370 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -54,42 +52,6 @@ I am a developer with a passion to functional programming, normally working full
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7140 commits        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-🌆 Daytime                16734 commits       ███████████████░░░░░░░░░░   58.82 % 
-🌃 Evening                4411 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-🌙 Night                  164 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   5438 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Tuesday                  4764 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Wednesday                5835 commits        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Thursday                 5632 commits        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Friday                   5422 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Saturday                 643 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Sunday                   715 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,6 +65,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 18:47:32 UTC
+ Last Updated on 23/09/2025 18:48:09 UTC
 <!--END_SECTION:waka-->
 <hr />
