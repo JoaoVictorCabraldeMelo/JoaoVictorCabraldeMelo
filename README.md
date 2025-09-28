@@ -38,8 +38,6 @@ I am a developer with a passion to functional programming, normally working full
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2025%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -54,42 +52,6 @@ I am a developer with a passion to functional programming, normally working full
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8020 commits        ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-🌆 Daytime                18950 commits       ███████████████░░░░░░░░░░   59.23 % 
-🌃 Evening                4860 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-🌙 Night                  164 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   6171 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Tuesday                  5402 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Wednesday                6528 commits        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Thursday                 6344 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Friday                   6107 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Saturday                 685 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Sunday                   757 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,6 +65,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 18:44:54 UTC
+ Last Updated on 28/09/2025 18:44:39 UTC
 <!--END_SECTION:waka-->
 <hr />
