@@ -38,13 +38,15 @@ I am a developer with a passion to functional programming, normally working full
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2027%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 187.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,436 Contributions in the Year 2025
+> 🏆 1,440 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -52,6 +54,43 @@ I am a developer with a passion to functional programming, normally working full
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                8873 commits        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+🌆 Daytime                21122 commits       ███████████████░░░░░░░░░░   59.57 % 
+🌃 Evening                5301 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+🌙 Night                  164 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   6884 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Tuesday                  6025 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Wednesday                7189 commits        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Thursday                 7096 commits        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Friday                   6752 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Saturday                 721 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Sunday                   793 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Markdown                 1 min               ███████████████████░░░░░░   74.34 % 
+YAML                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+
+🔥 Editors: 
+VS Code                  1 min               █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      1 min               █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -65,6 +104,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 18:47:19 UTC
+ Last Updated on 04/10/2025 18:46:09 UTC
 <!--END_SECTION:waka-->
 <hr />
