@@ -1,6 +1,7 @@
 ### Hi there, I'm João Victor! 👋
 
-I'm a Full-Stack Developer with 5+ years of experience building cloud-native applications. I specialize in backend development with JavaScript, C#, and Python, and I'm passionate about designing scalable, robust systems.
+I'm a Full-Stack Developer experienced in building applications with backend technologies like Python, C#, and Node.js, and frontend frameworks such as React and Angular.
+
 
 Currently, I’m exploring how to integrate artificial intelligence into these systems to transform conventional apps into intelligent, adaptive solutions.
 
